@@ -24,11 +24,12 @@
 
     "dependencies": {
         "request": ">=2.9.200",
-        "diff" : ">=1.0.3"
+        "diff" : ">=1.0.3",
+        "vows": "0.7.0"
     },
 
     "devDependencies": {
-        "vows": "0.7.0"
+        
     },
 
     "main": "index",
